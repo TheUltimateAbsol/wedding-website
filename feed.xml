@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Brandon &amp; Felice&#x27;s Wedding</title>
+    <link href="https://www.ellis2023.com/feed.xml" rel="self" />
+    <link href="https://www.ellis2023.com" />
+    <updated>2022-10-23T14:46:48-04:00</updated>
+    <author>
+        <name>Brandon Ellis</name>
+    </author>
+    <id>https://www.ellis2023.com</id>
+
+    <entry>
+        <title>RSVP</title>
+        <author>
+            <name>Brandon Ellis</name>
+        </author>
+        <link href="https://www.ellis2023.com/rsvp.html"/>
+        <id>https://www.ellis2023.com/rsvp.html</id>
+
+        <updated>2022-10-23T14:33:45-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Please email all RSVP requests to bfelliswedding@gmail.com Things to include in your email: Alternatively, if you received an invitation, scan the QR Code with your phone and fill out the corresponding form!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Please email all RSVP requests to <a href="mailto:bfelliswedding@gmail.com">bfelliswedding@gmail.com</a></p>
+<p>Things to include in your email:</p>
+<ul>
+<li>Your name</li>
+<li># of guests, including yourself</li>
+<li>Any additional comments</li>
+</ul>
+<hr>
+<p>Alternatively, if you received an invitation, scan the QR Code with your phone and fill out the corresponding form!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Overview</title>
+        <author>
+            <name>Brandon Ellis</name>
+        </author>
+        <link href="https://www.ellis2023.com/main-page.html"/>
+        <id>https://www.ellis2023.com/main-page.html</id>
+
+        <updated>2022-10-23T14:46:48-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.ellis2023.com/media/posts/1/20221009_100918cropped.jpg" alt="" />
+                    The ceremony will take place at the following venue: Our Lady of Victory Parish 4414 Wilkens Ave Baltimore, MD 21229 At 1:00 PM, on 3/25/22 The reception will take place at the following venue: The King's Contrivance Restaurant 10150 Shaker Dr Columbia, MD 21046 Immediately&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.ellis2023.com/media/posts/1/20221009_100918cropped.jpg" alt="" />
+                <p>The ceremony will take place at the following venue:</p>
+<p class="msg msg--info align-center">Our Lady of Victory Parish<br>4414 Wilkens Ave<br>Baltimore, MD 21229</p>
+<p>At<strong> 1:00 PM</strong>, on<strong> 3/25/22</strong></p>
+<hr>
+<p>The reception will take place at the following venue:</p>
+<p class="msg msg--info align-center">The King's Contrivance Restaurant<br>10150 Shaker Dr<br>Columbia, MD 21046</p>
+<p><strong>Immediately following</strong> the ceremony</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

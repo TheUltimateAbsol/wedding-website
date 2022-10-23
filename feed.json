@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Brandon &amp; Felice&#x27;s Wedding",
+    "description": "",
+    "home_page_url": "https://www.ellis2023.com",
+    "feed_url": "https://www.ellis2023.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Brandon Ellis"
+    },
+    "items": [
+        {
+            "id": "https://www.ellis2023.com/rsvp.html",
+            "url": "https://www.ellis2023.com/rsvp.html",
+            "title": "RSVP",
+            "summary": "Please email all RSVP requests to bfelliswedding@gmail.com Things to include in your email: Alternatively, if you received an invitation, scan the QR Code with your phone and fill out the corresponding form!",
+            "content_html": "<p>Please email all RSVP requests to <a href=\"mailto:bfelliswedding@gmail.com\">bfelliswedding@gmail.com</a></p>\n<p>Things to include in your email:</p>\n<ul>\n<li>Your name</li>\n<li># of guests, including yourself</li>\n<li>Any additional comments</li>\n</ul>\n<hr>\n<p>Alternatively, if you received an invitation, scan the QR Code with your phone and fill out the corresponding form!</p>",
+            "author": {
+                "name": "Brandon Ellis"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-23T14:30:56-04:00",
+            "date_modified": "2022-10-23T14:33:45-04:00"
+        },
+        {
+            "id": "https://www.ellis2023.com/main-page.html",
+            "url": "https://www.ellis2023.com/main-page.html",
+            "title": "Overview",
+            "summary": "The ceremony will take place at the following venue: Our Lady of Victory Parish 4414 Wilkens Ave Baltimore, MD 21229 At 1:00 PM, on 3/25/22 The reception will take place at the following venue: The King's Contrivance Restaurant 10150 Shaker Dr Columbia, MD 21046 Immediately&hellip;",
+            "content_html": "<p>The ceremony will take place at the following venue:</p>\n<p class=\"msg msg--info align-center\">Our Lady of Victory Parish<br>4414 Wilkens Ave<br>Baltimore, MD 21229</p>\n<p>At<strong> 1:00 PM</strong>, on<strong> 3/25/22</strong></p>\n<hr>\n<p>The reception will take place at the following venue:</p>\n<p class=\"msg msg--info align-center\">The King's Contrivance Restaurant<br>10150 Shaker Dr<br>Columbia, MD 21046</p>\n<p><strong>Immediately following</strong> the ceremony</p>",
+            "image": "https://www.ellis2023.com/media/posts/1/20221009_100918cropped.jpg",
+            "author": {
+                "name": "Brandon Ellis"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-22T20:24:09-04:00",
+            "date_modified": "2022-10-23T14:46:48-04:00"
+        }
+    ]
+}
